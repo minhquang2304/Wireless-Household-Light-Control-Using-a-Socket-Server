@@ -1,0 +1,1 @@
+This project uses an ESP01 with a relay module to wirelessly control a 220V lightbulb using Socket Server protocol. The development process was done on PlatformIO in VSCode. This is my first hobby project and I learnt a lot building it
